@@ -1,0 +1,6 @@
+framework module NendMediationCustomEventAdapter {
+  umbrella header "NendMediationCustomEventAdapter.h"
+
+  export *
+  module * { export * }
+}
