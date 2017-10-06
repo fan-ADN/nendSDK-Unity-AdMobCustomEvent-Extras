@@ -1,8 +1,11 @@
-# nendSDK Unity AdmobCustomEvent Extra
+# nendSDK Unity AdMob CustomEvent Extra
+
+![logo](https://user-images.githubusercontent.com/9563381/31269103-17daebce-aaba-11e7-9899-742435c4ef20.png)
 
 ## Overview
 
-Unity用nendSDK AdmobカスタムイベントアダプタMediationExtraBundleのリリースリポジトリです。
+UnityでnendSDKの動画リワード広告をAdMobカスタムイベントで表示する際、
+アプリからユーザーIDを付与したい場合に使用するバンドルです。
 
 ## Download
 
